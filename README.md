@@ -21,7 +21,7 @@ The results of the [KMO Test](./kmo_bartlett/KMOtest.txt) and [Bartlett's Test](
 
 ## Scripts to run the EFA 
 
-[This](./RCode.R) contains the script to conduct the EFA.
+[This](./RCode.R) is the script used to conduct the EFA.
 
 
 ## Deriving Factors
