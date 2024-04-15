@@ -7,7 +7,7 @@ This replication package contains material required to replicate our results. Th
 
 ## Data
 
-A spreadsheet containing code quality metrics collecting on Apache Maven Source Code is the dataset for this example (./efaReadyMC.xlsx).
+A [spreadsheet](./efaReadyMC.xlsx) containing code quality metrics collecting on Apache Maven Source Code is the dataset for this example.
 
 ## Results of the EFA
 
