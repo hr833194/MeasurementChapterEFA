@@ -1,0 +1,16 @@
+Kaiser-Meyer-Olkin factor adequacy
+Call: KMO(r = efadataset)
+Overall MSA =  0.71
+MSA for each item = 
+                           Size.NOM                           Size.NOPM                            Size.LOC          Size.CountInstanceVariable 
+                               0.72                                0.75                                0.79                                0.88 
+        Size.CountDeclMethodDefault                  Sub-Inheritance.NC                 Sup-Inheritance.DIT          Sup-Inheritance.ReuseRatio 
+                               0.62                                0.61                                0.65                                0.68 
+           Sub-Inheritance.CountSub            Sup-Inheritance.CountSup Sub-Inheritance.SpecializationRatio                     Cohesion.YALCOM 
+                               0.56                                0.61                                0.61                                0.88 
+                      Cohesion.LCOM               Cohesion.LCOMModified                      Cohesion.LCOM5                  In-Coupling.FANINa 
+                               0.77                                0.74                                0.59                                0.94 
+                 In-Coupling.FANINb                Out-Coupling.FANOUTa                Out-Coupling.FANOUTb                 Out-Coupling.CBOout 
+                               0.54                                0.98                                0.56                                0.92 
+                  In-Coupling.CBOin 
+                               0.62 

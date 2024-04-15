@@ -1,0 +1,17 @@
+Parallel analysis suggests that the number of factors =  7  and the number of components =  NA 
+Call: fa.parallel(x = efadataset, fm = "pa", fa = "fa")
+Parallel analysis suggests that the number of factors =  7  and the number of components =  NA 
+
+ Eigen Values of 
+
+ eigen values of factors
+ [1]  5.35  2.45  1.83  1.53  1.16  0.63  0.26 -0.01 -0.25 -0.31 -0.37 -0.42 -0.51 -0.54 -0.59 -0.63 -0.67 -0.78 -0.89 -0.94 -0.95
+
+ eigen values of simulated factors
+ [1]  0.30  0.21  0.18  0.16  0.13  0.11  0.09  0.06  0.04  0.03  0.01 -0.01 -0.03 -0.05 -0.07 -0.08 -0.10 -0.13 -0.15 -0.18 -0.21
+
+ eigen values of components 
+ [1] 5.93 3.27 2.73 2.49 1.77 1.28 1.07 0.57 0.46 0.35 0.30 0.22 0.15 0.10 0.08 0.06 0.06 0.04 0.03 0.03 0.00
+
+ eigen values of simulated components
+[1] NA

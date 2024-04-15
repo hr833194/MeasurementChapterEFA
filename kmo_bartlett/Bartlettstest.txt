@@ -1,0 +1,9 @@
+
+	Bartlett's Test of Sphericity
+
+Call: bart_spher(x = efadataset)
+
+     X2 = 35955.426
+     df = 210
+p-value < 2.22e-16
+
