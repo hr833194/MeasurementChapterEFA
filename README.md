@@ -5,27 +5,32 @@ Performing an Exploratory Factor Analysis on metrics collected by analyzing the 
 
 This replication package contains material required to replicate our results. This anonymous website is used for the anonymous peer review, but after acceptance, our replication package will be permanently archived on Zenodo. 
 
-## Data
+## Dataset
 
-A [spreadsheet](./efaReadyMC.xlsx) containing code quality metrics collecting on Apache Maven Source Code is the dataset for this example.
+A [spreadsheet](./FactorAnalysis/efaReadyMC.xlsx) containing code quality metrics collected on Apache Maven Source Code is the dataset for this example.
+
+## Code Quality Metrics
+
+The metrics collected in the dataset are calculated by three software tools: Designite, Understand, and JHawk on Apache Maven Source code. The definitions of these metrics can be found in the [Code Quality Metrics Documentation](./FactorAnalysis/CodeQualityMetrics/CodeQualityMetricsFA.xlsx)
 
 ## Results of the EFA
 
-The [Results](./Results) directory contains the output of the commands that were used when running the EFA using the [R Script](./RCode.R) in the form of .txt files. 
+The [Results](./FactorAnalysis/Results) directory contains the output of the commands that were used when running the EFA using the [R Script](./FactorAnalysis/RCode.R) in the form of .txt files. 
 
 It also contains the [Results of EFA](./Results/Results.xlsx) spreadsheet which tabulates the output of the commands for easier interpretation and shows the different stages of the EFA.
 
 ## Results of KMO and Bartlett's tests
 
-The results of the [KMO Test](./kmo_bartlett/KMOtest.txt) and [Bartlett's Test](./kmo_bartlett/Bartlettstest.txt).
+The results of the [KMO Test](./FactorAnalysis/kmo_bartlett/KMOtest.txt) and [Bartlett's Test](./FactorAnalysis/kmo_bartlett/Bartlettstest.txt).
 
 ## Scripts to run the EFA 
 
-[This](./RCode.R) is the script used to conduct the EFA.
+[This](./FactorAnalysis/RCode.R) is the script used to conduct the EFA.
 
 
 ## Deriving Factors
 
-The [Deriving Factors](./derivingFactors) directory contains the results of the Parallel Analysis, Kaiser Criteria, and Scree Plot which are used to select the number of factors in the EFA. 
+The [Deriving Factors](./FactorAnalysis/derivingFactors) directory contains the results of the [Parallel Analysis](./derivingFactors/FactorAnalysis/parallelAnalysis.txt), [Kaiser Criteria](./derivingFactors/FactorAnalysis/kaiserCriteria.txt), and [Scree Plot](./derivingFactors/FactorAnalysis/screePlot.pdf) which are used to select the number of factors in the EFA. 
 
 
+# Reliability Analysis
