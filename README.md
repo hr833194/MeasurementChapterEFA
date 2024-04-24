@@ -25,7 +25,7 @@ The results of the [KMO Test](./FactorAnalysis/kmo_bartlett/KMOtest.txt) and [Ba
 
 ## Scripts to run the EFA 
 
-[An R script](./FactorAnalysis/RCode.R) is run to conduct the EFA.
+An [R script](./FactorAnalysis/RCode.R) is run to conduct the EFA.
 
 
 ## Deriving Factors
