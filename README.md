@@ -17,7 +17,7 @@ The metrics collected in the dataset are calculated by three software tools: Des
 
 The [Results](./FactorAnalysis/Results) directory contains the output of the commands that were used when running the EFA using the [R Script](./FactorAnalysis/RCode.R) in the form of .txt files. 
 
-It also contains the [Results of EFA](./Results/Results.xlsx) spreadsheet which tabulates the output of the commands for easier interpretation and shows the different stages of the EFA.
+It also contains the [Results of EFA](./FactorAnalysis/Results/Results.xlsx) spreadsheet which tabulates the output of the commands for easier interpretation and shows the different stages of the EFA.
 
 ## Results of KMO and Bartlett's tests
 
@@ -25,12 +25,12 @@ The results of the [KMO Test](./FactorAnalysis/kmo_bartlett/KMOtest.txt) and [Ba
 
 ## Scripts to run the EFA 
 
-[This](./FactorAnalysis/RCode.R) is the script used to conduct the EFA.
+[An R script](./FactorAnalysis/RCode.R) is run to conduct the EFA.
 
 
 ## Deriving Factors
 
-The [Deriving Factors](./FactorAnalysis/derivingFactors) directory contains the results of the [Parallel Analysis](./derivingFactors/FactorAnalysis/parallelAnalysis.txt), [Kaiser Criteria](./derivingFactors/FactorAnalysis/kaiserCriteria.txt), and [Scree Plot](./derivingFactors/FactorAnalysis/screePlot.pdf) which are used to select the number of factors in the EFA. 
+The [Deriving Factors](./FactorAnalysis/derivingFactors) directory contains the results of the [Parallel Analysis](./FactorAnalysis/derivingFactors/parallelAnalysis.txt), [Kaiser Criteria](./FactorAnalysis/derivingFactors/kaiserCriteria.txt), and [Scree Plot](./FactorAnalysis/derivingFactors/screePlot.pdf) which are used to select the number of factors in the EFA. 
 
 
 # Reliability Analysis
