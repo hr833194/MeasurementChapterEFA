@@ -13,7 +13,7 @@ A [spreadsheet](./FactorAnalysis/efaReadyMC.xlsx) containing code quality metric
 
 The metrics collected in the dataset are calculated by three software tools: Designite, Understand, and JHawk on Apache Maven Source code. The definitions of these metrics can be found in the [Code Quality Metrics Documentation](./FactorAnalysis/CodeQualityMetrics/CodeQualityMetricsFA.xlsx).
 
-Additionally, the original documentation provided by the software tools can be found in [here](./FactorAnalysis/toolsDocumentation).
+Additionally, the original documentation provided by the software tools can be found in [here](./toolsDocumentation).
 
 ## Results of the EFA
 
