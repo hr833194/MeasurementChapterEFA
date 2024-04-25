@@ -39,6 +39,6 @@ The [Deriving Factors](./FactorAnalysis/derivingFactors) directory contains the 
 
 The [Reliability](./Reliability) directory contains the [R Script](./Reliability/RCodeReliability.R) used for the reliability analysis along with the [dataset](./Reliability/reliabilityDataset.xlsx).
 
-The metrics collected in the dataset are calculated by three software tools: Designite, Understand, and JHawk on Apache Maven Source code. The definitions of these metrics can be found in the [Code Quality Metrics Documentation](./Reliability/CodeQualityMetrics/CodeQualityMetricsListR.xlsx).
+The metrics collected in the dataset are calculated by three software tools: Designite, Understand, and JHawk on Apache Maven Source code. The definitions of these metrics can be found in the [Code Quality Metrics Documentation](./Reliability/CodeQualityMetricsListR.xlsx).
 
 Additionally, the original documentation provided by the software tools can be found in [here](./toolsDocumentation).
